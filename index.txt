@@ -1,0 +1,51 @@
+---
+title: Jeppe Fredsgaard Blaabjerg
+header-includes:
+- '<link rel="stylesheet" type="text/css" href="style.css"/>'
+---
+
+---
+
+<div class="sidebar">
+<img src="./images/me.png" style="border-radius: 5px">
+<div class="social">
+[<img src="./images/au_segl-inv.svg" width="32">](https://pure.au.dk/portal/en/persons/jeppe-fredsgaard-blaabjerg(299294fd-e483-42ba-9e08-63376a3942c8).html)
+</div>
+<div class="social">
+[![](./images/GitHub-Mark-32px.png)](http://github.com/jfblaa)
+</div>
+<div class="social">
+[![](./images/scholar.png)](https://scholar.google.com/citations?user=V_GIFOgAAAAJ)
+</div>
+</div>
+
+I am a PhD student under advisor [Aslan Askarov](https://askarov.net) in the
+[Logic and Semantics group](http://cs.au.dk/research/logic-and-semantics/people-and-visitors/)
+at the [Department of Computer Science](https://cs.au.dk) at
+[Aarhus University](https://au.dk).
+
+I am studying programming languages and language-based security with a particular focus on language-based methods for online security.
+
+
+#### Contact
+
+- E-mail: <jfblaa@cs.au.dk>
+- Office: [Ada-213 (5342-213), Aabogade 34, DK-8200, Aarhus N](https://international.au.dk/about/contact/?b=5342)
+
+#### Publications
+
+- **Towards Language-Based Mitigation of Traffic Analysis Attacks**
+: Jeppe Fredsgaard Blaabjerg and Aslan Askarov
+: *In CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference*
+: [Preprint (.pdf)](selene/paper.pdf), [Technical report (.pdf)](selene/technical_report.pdf)
+
+#### Teaching
+
+- Teaching assistant for Compilation under [Aslan Askarov](https://askarov.net) (BSc course, 2018,
+    2019, and 2020)
+- Teaching assistant for Programming Languages under [Anders Møller](http://cs.au.dk/~amoeller)
+    (BSc course, 2019)
+
+#### Work experience
+
+- Student programmer at [Luxion](https://luxion.com), 2018
