@@ -20,7 +20,7 @@ header-includes:
 </div>
 
 I am a PhD student under advisor [Aslan Askarov](https://askarov.net) in the
-[Logic and Semantics group](http://cs.au.dk/research/logic-and-semantics/people-and-visitors/)
+[Logic and Semantics group](http://cs.au.dk/research/logic-and-semantics/)
 at the [Department of Computer Science](https://cs.au.dk) at
 [Aarhus University](https://au.dk).
 
