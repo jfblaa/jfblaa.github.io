@@ -36,13 +36,15 @@ I am studying programming languages and language-based security with a particula
 
 - **Towards Language-Based Mitigation of Traffic Analysis Attacks**
 : Jeppe Fredsgaard Blaabjerg and Aslan Askarov
-: *In CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference*
+: *CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference*
 : [Preprint (.pdf)](selene/paper.pdf), [Technical report (.pdf)](selene/technical_report.pdf)
+- **OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads**
+: Jeppe Fredsgaard Blaabjerg and Aslan Askarov
+: *CSF 2023: 36th IEEE Computer Security Foundations Symposium*
 
 #### Teaching
 
-- Teaching assistant for Compilation under [Aslan Askarov](https://askarov.net) (BSc course, 2018,
-    2019, and 2020)
+- Teaching assistant for Compilation under [Aslan Askarov](https://askarov.net) (BSc course, 2018 - 2021)
 - Teaching assistant for Programming Languages under [Anders Møller](http://cs.au.dk/~amoeller)
     (BSc course, 2019)
 
