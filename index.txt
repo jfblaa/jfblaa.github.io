@@ -30,7 +30,7 @@ I am studying programming languages and language-based security with a particula
 #### Contact
 
 - E-mail: <jfblaa@cs.au.dk>
-- Office: [Ada-213 (5342-213), Aabogade 34, DK-8200, Aarhus N](https://international.au.dk/about/contact/?b=5342)
+- Office: [Turing-125 (5341-125), Aabogade 34, DK-8200, Aarhus N](https://international.au.dk/about/contact/?b=5342)
 
 #### Publications
 
