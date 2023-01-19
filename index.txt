@@ -41,6 +41,7 @@ I am studying programming languages and language-based security with a particula
 - **OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads**
 : Jeppe Fredsgaard Blaabjerg and Aslan Askarov
 : *CSF 2023: 36th IEEE Computer Security Foundations Symposium*
+: [Preprint (.pdf)](oblivio/paper.pdf), [Technical report (.pdf)](oblivio/technical_report.pdf)
 
 #### Teaching
 
