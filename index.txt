@@ -9,13 +9,16 @@ header-includes:
 <div class="sidebar">
 <img src="./images/me.png" style="border-radius: 5px">
 <div class="social">
-[<img src="./images/au_segl-inv.svg" width="32">](https://pure.au.dk/portal/en/persons/jeppe-fredsgaard-blaabjerg(299294fd-e483-42ba-9e08-63376a3942c8).html)
+[<img src="./images/au_segl-inv.svg">](https://pure.au.dk/portal/en/persons/jeppe-fredsgaard-blaabjerg(299294fd-e483-42ba-9e08-63376a3942c8).html)
 </div>
 <div class="social">
-[![](./images/GitHub-Mark-32px.png)](http://github.com/jfblaa)
+[<img src="./images/scholar.png">](https://scholar.google.com/citations?user=V_GIFOgAAAAJ)
 </div>
 <div class="social">
-[![](./images/scholar.png)](https://scholar.google.com/citations?user=V_GIFOgAAAAJ)
+[<img src="./images/github-mark.png">](http://github.com/jfblaa/)
+</div>
+<div class="social">
+[<img src="./images/Li-In-Bug.png">](https://www.linkedin.com/in/jfblaa/)
 </div>
 </div>
 
