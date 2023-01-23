@@ -18,7 +18,7 @@ header-includes:
 [<img src="./images/github-mark.png">](http://github.com/jfblaa/)
 </div>
 <div class="social">
-[<img src="./images/Li-In-Bug.png">](https://www.linkedin.com/in/jfblaa/)
+[<img src="./images/LI-In-Bug.png">](https://www.linkedin.com/in/jfblaa/)
 </div>
 </div>
 

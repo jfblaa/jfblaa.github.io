@@ -32,21 +32,27 @@ body {
 }
 
 a {
-  color: #0645ad;
+  outline: none;
   text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a:link {
+  color: blue;
 }
 
 a:visited {
-  color: #0b0080;
+  color: purple;
 }
 
-a:hover {
-  color: #06e;
+a:focus, a:hover {
+  text-decoration: underline;
 }
 
 a:active {
-  color: #faa700;
+  color: red;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
