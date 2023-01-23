@@ -7,7 +7,7 @@ header-includes:
 ---
 
 <div class="sidebar">
-<img src="./images/me.png" style="border-radius: 5px">
+[<img src="./images/me.png" style="border-radius: 5px">](./images/me.png)
 <div class="social">
 [<img src="./images/au_segl-inv.svg">](https://pure.au.dk/portal/en/persons/jeppe-fredsgaard-blaabjerg(299294fd-e483-42ba-9e08-63376a3942c8).html)
 </div>
@@ -27,8 +27,9 @@ I am a PhD student under advisor [Aslan Askarov](https://askarov.net) in the
 at the [Department of Computer Science](https://cs.au.dk) at
 [Aarhus University](https://au.dk).
 
-I am studying programming languages and language-based security with a particular focus on language-based methods for online security.
+I research languaged-based methods for online security and work with programming languages (*semantics, design, type systems, program analysis*) and computer security (*information-flow, language-based security, online security, covert channels*).
 
+I am additionally interested in functional programming, low-level programming, and compilers.
 
 #### Contact
 
@@ -37,14 +38,15 @@ I am studying programming languages and language-based security with a particula
 
 #### Publications
 
-- **Towards Language-Based Mitigation of Traffic Analysis Attacks**
-: Jeppe Fredsgaard Blaabjerg and Aslan Askarov
-: *CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference*
-: [Preprint (.pdf)](selene/paper.pdf), [Technical report (.pdf)](selene/technical_report.pdf)
-- **OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads**
-: Jeppe Fredsgaard Blaabjerg and Aslan Askarov
-: *CSF 2023: 36th IEEE Computer Security Foundations Symposium*
-: [Preprint (.pdf)](oblivio/paper.pdf), [Technical report (.pdf)](oblivio/technical_report.pdf)
+- **Towards Language-Based Mitigation of Traffic Analysis Attacks**  
+   Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
+   *CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference*  
+   [Preprint (.pdf)](selene/paper.pdf), [Technical report (.pdf)](selene/technical_report.pdf)
+
+- **OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads**  
+   Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
+   *CSF 2023: 36th IEEE Computer Security Foundations Symposium*  
+   [Preprint (.pdf)](oblivio/paper.pdf), [Technical report (.pdf)](oblivio/technical_report.pdf)
 
 #### Teaching
 
@@ -54,4 +56,5 @@ I am studying programming languages and language-based security with a particula
 
 #### Work experience
 
+- Student programmer for [Aslan Askarov](http://askarov.net/), Aarhus University, 2018
 - Student programmer at [Luxion](https://luxion.com), 2018
