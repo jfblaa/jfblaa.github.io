@@ -27,22 +27,21 @@ I am additionally interested in functional programming, low-level programming, a
 
 #### Publications
 
-- **OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads**  
-    Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
-    *In CSF 2023: 36th IEEE Computer Security Foundations Symposium*  
-    [Preprint (.pdf)](oblivio/paper.pdf){.boxedurl} [Technical report (.pdf)](oblivio/technical_report.pdf){.boxedurl} [Code](https://github.com/jfblaa/OblivIO){.boxedurl}
+**OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads**  
+Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
+*In CSF 2023: 36th IEEE Computer Security Foundations Symposium*  
+[Preprint (.pdf)](oblivio/paper.pdf){.boxedurl} [Technical report (.pdf)](oblivio/technical_report.pdf){.boxedurl} [Code (GitHub)](https://github.com/jfblaa/OblivIO){.boxedurl}
 
-- **Towards Language-Based Mitigation of Traffic Analysis Attacks**  
-    Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
-    *In CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference*  
-    [Preprint (.pdf)](selene/paper.pdf){.boxedurl} [Technical report (.pdf)](selene/technical_report.pdf){.boxedurl}
+**Towards Language-Based Mitigation of Traffic Analysis Attacks**  
+Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
+*In CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference*  
+[Preprint (.pdf)](selene/paper.pdf){.boxedurl} [Technical report (.pdf)](selene/technical_report.pdf){.boxedurl}
 
 #### Other
 
-- **Short Paper: Differential fuzzing of constant-time packages in JavaScript**  
-    Jeppe Fredsgaard Blaabjerg  
-    *Accepted, not presented, for PLAS 2021: The 16th Workshop on Programming Languages and Analysis for Security*  
-    [Short paper (.pdf)](jsdiffuzz/JsDifFuzz.pdf){.boxedurl}
+**Short Paper: Differential fuzzing of constant-time packages in JavaScript**  
+Jeppe Fredsgaard Blaabjerg  
+[Short paper (.pdf)](jsdiffuzz/JsDifFuzz.pdf){.boxedurl}
 
 #### Teaching
 
@@ -55,3 +54,5 @@ I am additionally interested in functional programming, low-level programming, a
 
 - Student programmer for [Aslan Askarov](http://askarov.net/), Aarhus University, 2018
 - Student programmer at [Luxion](https://luxion.com), 2018
+
+---
