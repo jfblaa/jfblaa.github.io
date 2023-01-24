@@ -15,7 +15,8 @@ I am a PhD student under advisor [Aslan Askarov](https://askarov.net) in the
 at the [Department of Computer Science](https://cs.au.dk) at
 [Aarhus University](https://au.dk).
 
-I research languaged-based methods for online security and work with programming languages (*semantics, design, type systems, program analysis*) and computer security (*information-flow, language-based security, online security, covert channels*).
+I research programming languages (*semantics, design, type systems, program analysis*) and computer security (*information-flow, language-based security, online security, covert channels*).
+I am particularly interested in languaged-based methods for online security.
 
 I am additionally interested in functional programming, low-level programming, and compilers.
 
