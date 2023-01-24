@@ -4,6 +4,7 @@ html {
 }
 
 .title {
+  font-size: xx-large;
   padding-top: 10px;
   line-height: normal;
   margin: auto;
@@ -20,6 +21,17 @@ body {
   padding: 10px;
 }
 
+.boxedurl {
+  border: inherit;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  padding-top: 2px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
 .sidebar {
   float: right;
   text-align: center;
@@ -28,7 +40,7 @@ body {
 }
 
 .me {
-  border-radius: 5px;
+  border-radius: 10px;
   max-width: 200px;
 }
 

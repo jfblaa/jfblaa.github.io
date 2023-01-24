@@ -28,18 +28,26 @@ I am additionally interested in functional programming, low-level programming, a
 #### Publications
 
 - **OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads**  
-   Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
-   *CSF 2023: 36th IEEE Computer Security Foundations Symposium*  
-   [Preprint (.pdf)](oblivio/paper.pdf), [Technical report (.pdf)](oblivio/technical_report.pdf)
+    Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
+    *In CSF 2023: 36th IEEE Computer Security Foundations Symposium*  
+    [Preprint (.pdf)](oblivio/paper.pdf){.boxedurl} [Technical report (.pdf)](oblivio/technical_report.pdf){.boxedurl} [Code](https://github.com/jfblaa/OblivIO){.boxedurl}
 
 - **Towards Language-Based Mitigation of Traffic Analysis Attacks**  
-   Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
-   *CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference*  
-   [Preprint (.pdf)](selene/paper.pdf), [Technical report (.pdf)](selene/technical_report.pdf)
+    Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
+    *In CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference*  
+    [Preprint (.pdf)](selene/paper.pdf){.boxedurl} [Technical report (.pdf)](selene/technical_report.pdf){.boxedurl}
+
+#### Other
+
+- **Short Paper: Differential fuzzing of constant-time packages in JavaScript**  
+    Jeppe Fredsgaard Blaabjerg  
+    *Accepted, not presented, for PLAS 2021: The 16th Workshop on Programming Languages and Analysis for Security*  
+    [Short paper (.pdf)](jsdiffuzz/JsDifFuzz.pdf){.boxedurl}
 
 #### Teaching
 
-- Teaching assistant for Compilation under [Aslan Askarov](https://askarov.net) (BSc course, 2018, 2019, 2020, 2021)
+- Teaching assistant for Compilation under [Aslan Askarov](https://askarov.net)
+    (BSc course, 2018, 2019, 2020, 2021)
 - Teaching assistant for Programming Languages under [Anders Møller](http://cs.au.dk/~amoeller)
     (BSc course, 2019)
 
