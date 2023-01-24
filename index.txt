@@ -29,7 +29,7 @@ I am additionally interested in functional programming, low-level programming, a
 
 **OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads**  
 Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
-*In CSF 2023: 36th IEEE Computer Security Foundations Symposium*  
+*In CSF 2023: 36th IEEE Computer Security Foundations Symposium, Dubrovnik, Croatia*  
 [Preprint (.pdf)](oblivio/paper.pdf){.boxedurl} [Technical report (.pdf)](oblivio/technical_report.pdf){.boxedurl} [Code (GitHub)](https://github.com/jfblaa/OblivIO){.boxedurl}
 
 **Towards Language-Based Mitigation of Traffic Analysis Attacks**  
