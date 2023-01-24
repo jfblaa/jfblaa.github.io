@@ -27,19 +27,19 @@ I am additionally interested in functional programming, low-level programming, a
 
 #### Publications
 
-- **Towards Language-Based Mitigation of Traffic Analysis Attacks**  
-   Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
-   *CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference*  
-   [Preprint (.pdf)](selene/paper.pdf), [Technical report (.pdf)](selene/technical_report.pdf)
-
 - **OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads**  
    Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
    *CSF 2023: 36th IEEE Computer Security Foundations Symposium*  
    [Preprint (.pdf)](oblivio/paper.pdf), [Technical report (.pdf)](oblivio/technical_report.pdf)
 
+- **Towards Language-Based Mitigation of Traffic Analysis Attacks**  
+   Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
+   *CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference*  
+   [Preprint (.pdf)](selene/paper.pdf), [Technical report (.pdf)](selene/technical_report.pdf)
+
 #### Teaching
 
-- Teaching assistant for Compilation under [Aslan Askarov](https://askarov.net) (BSc course, 2018 - 2021)
+- Teaching assistant for Compilation under [Aslan Askarov](https://askarov.net) (BSc course, 2018, 2019, 2020, 2021)
 - Teaching assistant for Programming Languages under [Anders Møller](http://cs.au.dk/~amoeller)
     (BSc course, 2019)
 
