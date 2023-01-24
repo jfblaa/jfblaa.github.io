@@ -4,7 +4,9 @@ html {
 }
 
 .title {
-  font-size: xx-large;
+  color: #444;
+  font-size: x-large;
+  font-family: Helvetica, sans-serif;
   padding-top: 10px;
   line-height: normal;
   margin: auto;
@@ -13,12 +15,18 @@ html {
 body {
   color: #444;
   font-family: Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: smaller;
   line-height: 1.5em;
   margin: auto;
   max-width: 800px;
   background: #fefefe;
   padding: 10px;
+}
+
+hr {
+  border-width: 0.1px;
+  border-color: #ddd;
+  border-style: dashed;
 }
 
 .boxedurl {
