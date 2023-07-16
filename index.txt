@@ -20,9 +20,8 @@ I am interested in programming languages (*semantics, design, implementation, ty
 Additionally, I am fond of functional programming, low-level programming, and compilers.
 
 #### Contact
-
-- E-mail: <jfblaa@cs.au.dk>
-- Office: [Turing-125 (5341-125), Aabogade 34, DK-8200, Aarhus N](https://international.au.dk/about/contact/?b=5341)
+- Personal: <jfblaa@gmail.com>
+- Work: <jfblaa@cs.au.dk>
 
 #### Publications
 
