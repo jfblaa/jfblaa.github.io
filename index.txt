@@ -10,20 +10,25 @@
 [![](./images/LI-In-Bug.png){.social}](https://www.linkedin.com/in/jfblaa/)
 </div>
 
-I am a PhD student under advisor [Aslan Askarov](https://askarov.net) in the
+I recently handed in my PhD dissertation, which I will be defending in January 2024.
+My PhD was advised by [Aslan Askarov](https://askarov.net) in the
 [Logic and Semantics group](http://cs.au.dk/research/logic-and-semantics/)
 at the [Department of Computer Science](https://cs.au.dk) at
 [Aarhus University](https://au.dk).
 
-I am interested in programming languages (*semantics, design, implementation, type systems, program analysis*) and computer security (*information-flow, language-based security, online security, covert channels*) and in particular in languaged-based methods for online security.
+I am interested in programming languages (*semantics, design, implementation, type systems, program analysis*) and computer security (*information-flow, language-based security, online security, covert channels*).
 
 Additionally, I am fond of functional programming, low-level programming, and compilers.
 
 #### Contact
-- Personal: <jfblaa@gmail.com>
-- Work: <jfblaa@cs.au.dk>
+- E-mail: <jfblaa@gmail.com>
 
 #### Publications
+
+**Information Flow Techniques for Mitigating Traffic Analysis**  
+Jeppe Fredsgaard Blaabjerg  
+*Ph.D. thesis, Aarhus University, January 2024*  
+[Abstract (.html)](https://pure.au.dk/portal/en/publications/information-flow-techniques-for-mitigating-traffic-analysis(14ce91c4-a326-47a7-b57b-a4555f976f24).html){.boxedurl}
 
 **OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads**  
 Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
