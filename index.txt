@@ -10,11 +10,10 @@
 [![](./images/LI-In-Bug.png){.social}](https://www.linkedin.com/in/jfblaa/)
 </div>
 
-I recently handed in my PhD dissertation, which I will be defending in January 2024.
-My PhD was advised by [Aslan Askarov](https://askarov.net) in the
-[Logic and Semantics group](http://cs.au.dk/research/logic-and-semantics/)
-at the [Department of Computer Science](https://cs.au.dk) at
-[Aarhus University](https://au.dk).
+I am a recent PhD from the [Logic and Semantics group](http://cs.au.dk/research/logic-and-semantics/)
+ at the [Department of Computer Science](https://cs.au.dk) at
+[Aarhus University](https://au.dk), where I was advised by [Aslan Askarov](https://askarov.net).
+I now work as a Program Analysis Engineer at [Coana](https://coana.tech).
 
 I am interested in programming languages (*semantics, design, implementation, type systems, program analysis*) and computer security (*information-flow, language-based security, online security, covert channels*).
 
@@ -28,7 +27,7 @@ Additionally, I am fond of functional programming, low-level programming, and co
 **Information Flow Techniques for Mitigating Traffic Analysis**  
 Jeppe Fredsgaard Blaabjerg  
 *Ph.D. thesis, Aarhus University, January 2024*  
-[Abstract (.html)](https://pure.au.dk/portal/en/publications/information-flow-techniques-for-mitigating-traffic-analysis(14ce91c4-a326-47a7-b57b-a4555f976f24).html){.boxedurl}
+[Abstract (.html)](https://pure.au.dk/portal/en/publications/information-flow-techniques-for-mitigating-traffic-analysis(14ce91c4-a326-47a7-b57b-a4555f976f24).html){.boxedurl} [Slides (.pdf)](defence/defence.pdf){.boxedurl}
 
 **OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads**  
 Jeppe Fredsgaard Blaabjerg and Aslan Askarov  
