@@ -9,14 +9,11 @@
 [![](./images/LI-In-Bug.png){.social}](https://www.linkedin.com/in/jfblaa/)
 </div>
 
-I am a recent PhD from the [Logic and Semantics group](http://cs.au.dk/research/logic-and-semantics/)
- at the [Department of Computer Science](https://cs.au.dk) at
-[Aarhus University](https://au.dk), where I was advised by [Aslan Askarov](https://askarov.net).
-I now work as a Program Analysis Engineer at [Coana](https://coana.tech).
+I am a Program Analysis Engineer at [Coana](https://coana.tech).
 
 I am interested in programming languages (*semantics, design, implementation, type systems, program analysis*) and computer security (*information-flow, language-based security, online security, covert channels*).
 
-Additionally, I am fond of functional programming, low-level programming, and compilers.
+I have a PhD in Computer Science from [Aarhus University](https://au.dk), where I was advised by [Aslan Askarov](https://askarov.net).
 
 #### Contact
 - E-mail: <jfblaa@gmail.com>
@@ -43,17 +40,5 @@ Jeppe Fredsgaard Blaabjerg and Aslan Askarov
 **Short Paper: Differential fuzzing of constant-time packages in JavaScript**  
 Jeppe Fredsgaard Blaabjerg  
 [Short paper (.pdf)](jsdiffuzz/JsDifFuzz.pdf){.boxedurl}
-
-#### Teaching
-
-- Teaching assistant for Compilation under [Aslan Askarov](https://askarov.net)
-    (BSc course, 2018, 2019, 2020, 2021)
-- Teaching assistant for Programming Languages under [Anders Møller](http://cs.au.dk/~amoeller)
-    (BSc course, 2019)
-
-#### Work experience
-
-- Student programmer for [Aslan Askarov](http://askarov.net/), Aarhus University, 2018
-- Student programmer at [Luxion](https://luxion.com), 2018
 
 ---

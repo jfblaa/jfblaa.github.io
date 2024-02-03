@@ -8,21 +8,16 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    /* The extra [class] is a hack that increases specificity enough to
-       override a similar rule in reveal.js */
-    ul.task-list[class]{list-style: none;}
-    ul.task-list li input[type="checkbox"] {
-      font-size: inherit;
-      width: 0.8em;
-      margin: 0 0.8em 0.2em -1.6em;
-      vertical-align: middle;
-    }
+    ul.task-list{list-style: none;}
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="style.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -30,80 +25,32 @@
 </header>
 <hr />
 <div class="sidebar">
-<p><a href="./images/me.png"><img src="./images/me.png"
-class="me" /></a> <a
-href="https://scholar.google.com/citations?user=V_GIFOgAAAAJ"><img
-src="./images/scholar.png" class="social" /></a> <a
-href="http://github.com/jfblaa/"><img src="./images/github-mark.png"
-class="social" /></a> <a href="https://www.linkedin.com/in/jfblaa/"><img
-src="./images/LI-In-Bug.png" class="social" /></a></p>
+<p><a href="./images/me.png"><img src="./images/me.png" class="me" /></a> <a href="https://scholar.google.com/citations?user=V_GIFOgAAAAJ"><img src="./images/scholar.png" class="social" /></a> <a href="http://github.com/jfblaa/"><img src="./images/github-mark.png" class="social" /></a> <a href="https://www.linkedin.com/in/jfblaa/"><img src="./images/LI-In-Bug.png" class="social" /></a></p>
 </div>
-<p>I am a recent PhD from the <a
-href="http://cs.au.dk/research/logic-and-semantics/">Logic and Semantics
-group</a> at the <a href="https://cs.au.dk">Department of Computer
-Science</a> at <a href="https://au.dk">Aarhus University</a>, where I
-was advised by <a href="https://askarov.net">Aslan Askarov</a>. I now
-work as a Program Analysis Engineer at <a
-href="https://coana.tech">Coana</a>.</p>
-<p>I am interested in programming languages (<em>semantics, design,
-implementation, type systems, program analysis</em>) and computer
-security (<em>information-flow, language-based security, online
-security, covert channels</em>).</p>
-<p>Additionally, I am fond of functional programming, low-level
-programming, and compilers.</p>
+<p>I am a Program Analysis Engineer at <a href="https://coana.tech">Coana</a>.</p>
+<p>I am interested in programming languages (<em>semantics, design, implementation, type systems, program analysis</em>) and computer security (<em>information-flow, language-based security, online security, covert channels</em>).</p>
+<p>I have a PhD in Computer Science from <a href="https://au.dk">Aarhus University</a>, where I was advised by <a href="https://askarov.net">Aslan Askarov</a>.</p>
 <h4 id="contact">Contact</h4>
 <ul>
-<li>E-mail: <a href="mailto:jfblaa@gmail.com"
-class="email">jfblaa@gmail.com</a></li>
+<li>E-mail: <a href="mailto:jfblaa@gmail.com" class="email">jfblaa@gmail.com</a></li>
 </ul>
 <h4 id="publications">Publications</h4>
-<p><strong>Information Flow Techniques for Mitigating Traffic
-Analysis</strong><br />
+<p><strong>Information Flow Techniques for Mitigating Traffic Analysis</strong><br />
 Jeppe Fredsgaard Blaabjerg<br />
 <em>Ph.D. thesis, Aarhus University, January 2024</em><br />
-<a
-href="https://pure.au.dk/portal/en/publications/information-flow-techniques-for-mitigating-traffic-analysis(14ce91c4-a326-47a7-b57b-a4555f976f24).html"
-class="boxedurl">Abstract (.html)</a> <a href="defence/defence.pdf"
-class="boxedurl">Slides (.pdf)</a></p>
-<p><strong>OblivIO: Securing reactive programs by oblivious execution
-with bounded traffic overheads</strong><br />
+<a href="https://pure.au.dk/portal/en/publications/information-flow-techniques-for-mitigating-traffic-analysis(14ce91c4-a326-47a7-b57b-a4555f976f24).html" class="boxedurl">Abstract (.html)</a> <a href="defence/defence.pdf" class="boxedurl">Slides (.pdf)</a></p>
+<p><strong>OblivIO: Securing reactive programs by oblivious execution with bounded traffic overheads</strong><br />
 Jeppe Fredsgaard Blaabjerg and Aslan Askarov<br />
-<em>In CSF 2023: 36th IEEE Computer Security Foundations Symposium,
-Dubrovnik, Croatia</em><br />
-<a href="oblivio/paper.pdf" class="boxedurl">Preprint (.pdf)</a> <a
-href="oblivio/technical_report.pdf" class="boxedurl">Technical report
-(.pdf)</a> <a href="https://github.com/jfblaa/OblivIO"
-class="boxedurl">Code (GitHub)</a></p>
-<p><strong>Towards Language-Based Mitigation of Traffic Analysis
-Attacks</strong><br />
+<em>In CSF 2023: 36th IEEE Computer Security Foundations Symposium, Dubrovnik, Croatia</em><br />
+<a href="oblivio/paper.pdf" class="boxedurl">Preprint (.pdf)</a> <a href="oblivio/technical_report.pdf" class="boxedurl">Technical report (.pdf)</a> <a href="https://github.com/jfblaa/OblivIO" class="boxedurl">Code (GitHub)</a></p>
+<p><strong>Towards Language-Based Mitigation of Traffic Analysis Attacks</strong><br />
 Jeppe Fredsgaard Blaabjerg and Aslan Askarov<br />
-<em>In CSF 2021: 34th IEEE Computer Security Foundations Symposium,
-Virtual Conference</em><br />
-<a href="selene/paper.pdf" class="boxedurl">Preprint (.pdf)</a> <a
-href="selene/technical_report.pdf" class="boxedurl">Technical report
-(.pdf)</a></p>
+<em>In CSF 2021: 34th IEEE Computer Security Foundations Symposium, Virtual Conference</em><br />
+<a href="selene/paper.pdf" class="boxedurl">Preprint (.pdf)</a> <a href="selene/technical_report.pdf" class="boxedurl">Technical report (.pdf)</a></p>
 <h4 id="other">Other</h4>
-<p><strong>Short Paper: Differential fuzzing of constant-time packages
-in JavaScript</strong><br />
+<p><strong>Short Paper: Differential fuzzing of constant-time packages in JavaScript</strong><br />
 Jeppe Fredsgaard Blaabjerg<br />
-<a href="jsdiffuzz/JsDifFuzz.pdf" class="boxedurl">Short paper
-(.pdf)</a></p>
-<h4 id="teaching">Teaching</h4>
-<ul>
-<li>Teaching assistant for Compilation under <a
-href="https://askarov.net">Aslan Askarov</a> (BSc course, 2018, 2019,
-2020, 2021)</li>
-<li>Teaching assistant for Programming Languages under <a
-href="http://cs.au.dk/~amoeller">Anders Møller</a> (BSc course,
-2019)</li>
-</ul>
-<h4 id="work-experience">Work experience</h4>
-<ul>
-<li>Student programmer for <a href="http://askarov.net/">Aslan
-Askarov</a>, Aarhus University, 2018</li>
-<li>Student programmer at <a href="https://luxion.com">Luxion</a>,
-2018</li>
-</ul>
+<a href="jsdiffuzz/JsDifFuzz.pdf" class="boxedurl">Short paper (.pdf)</a></p>
 <hr />
 </body>
 </html>
